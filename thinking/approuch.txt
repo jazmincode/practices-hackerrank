@@ -1,0 +1,42 @@
+Merge Sorted Array
+What do you give me?
+
+ 1# approuch 
+
+1.- Merge 2 lists
+2.- delete Zeros
+2.- Sorted the resolve
+3.- Test constrains
+-------------------------------------
+
+Jazmín General Approuch to Software:
+
+My 4 principals for have an approuch to code.
+
+A)UX oriented to developer 
+B)TESTING --Work for everycase
+C)SCALABILITY --Can reuse, and can take this for be part to another estructure
+D)SPEED --Can I be this faster?
+
+A) I try to be the most verbose possible in :
+My functions and classes and I try to put my code in as a recipe
+even dough in the first place that functions and class
+dont be the fasterst I belive if I can model my problema in
+an organize and understandbly way and everybody can read my approuch it could be
+easier make my structure faster. but If I make the opposite as a first approuch 
+it could be an ugly experience travel by the code for made this better.
+
+If the most important thing for me, cause its you cozy with the code 
+testing, scalability and speed comes in a easier way.
+
+
+1) Understand the problem.
+2) Request information for identify if you actually right or need more details.
+3) Model the idea in a hight-level and explain Why do you are taking this decision
+4) Begin the code
+5) If you take 5 or more debbuging request help
+6) When you debbuging explain what do yo doing and Why
+7) repeat 6,7 until the finally moment of the test.
+8) Request feedback
+
+
